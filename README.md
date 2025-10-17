@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+###My skills :
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,postgres)](https://skillicons.dev)
+
+### Learning :
 [![Learning](https://skillicons.dev/icons?i=py,)](https://skillicons.dev)
 <!--
 **JL-Benoit/JL-Benoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
