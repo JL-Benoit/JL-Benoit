@@ -1,3 +1,5 @@
+![banner]()
+
 # Hello there 🧔 - WIP
 
 Graphic designer & product photographer turned aspiring Data Analyst.\
