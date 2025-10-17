@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hi there - This is a WIP 👋
 
 ### My skills :
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,postgres)](https://skillicons.dev)
-
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=adobeillustrator,adobephotoshop,adobeindesign,excel,postgresql)](https://github.com/thuongtruong109/icoziv)
 ### Learning :
-[![Learning](https://skillicons.dev/icons?i=py,)](https://skillicons.dev)
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=python,pandas,powerbi,tableau,numpy)](https://github.com/thuongtruong109/icoziv)
+
+
+
+
+
 <!--
 **JL-Benoit/JL-Benoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
