@@ -8,14 +8,14 @@ Now I’m learning how to apply that creative eye to data storytelling : **turni
 </br>
 </br>
 
-## Skills & Tools:
+## 🛠️ Skills & Tools:
 
 ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=adobeillustrator,adobephotoshop,adobeindesign,excel,vscode,postgresql)
 ### Currently learning :
 ![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=python,pandas,powerbi,tableau,numpy)
 </br>
 </br>
-## See my other stuff :
+## 🔍 See my other stuff :
 [![linkedin](assets/web_icon-01.png)](https://www.linkedin.com/in/jean-louis-benoit-576381178)&ensp;[![instagram](assets/web_icon-02.png)](https://www.instagram.com/jlbenoit.photo)&ensp;[![behance](assets/web_icon-03.png)](https://www.behance.net/jeanbenoit7379)
 <!--
 **JL-Benoit/JL-Benoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
