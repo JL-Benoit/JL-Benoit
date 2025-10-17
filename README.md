@@ -1,5 +1,4 @@
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=40&pause=700&color=F05726&width=435&lines=Hello+there+!;General+Kenobi+!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=56&duration=2000&pause=700&color=F05726&vCenter=true&width=435&lines=Hello+there+!;General+Kenobi+!)](https://git.io/typing-svg)
 
 Graphic designer & product photographer turned aspiring Data Analyst.\
 I’m learning to ask better questions about the world and create visuals grounded in data.
