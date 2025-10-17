@@ -14,6 +14,5 @@ Now I’m learning how to apply that creative eye to data storytelling : **turni
 
 
 ### connect with me :
-
 <!--
 **JL-Benoit/JL-Benoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
