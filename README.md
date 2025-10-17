@@ -1,5 +1,3 @@
-![banner](assets/Banner_2.png)
-
 # Hello there 🧔 - WIP
 
 Graphic designer & product photographer turned aspiring Data Analyst.\
@@ -7,7 +5,6 @@ I’m learning to ask better questions about the world and create visuals ground
 
 I come from a graphic design and product photography background, with a <ins>strong focus on visuals, structure, and storytelling.</ins>\
 Now I’m learning how to apply that creative eye to data storytelling : **turning numbers into visuals that communicate real meaning.**
-#F05726 color
 
 ### <ins>My skills :</ins>
 
