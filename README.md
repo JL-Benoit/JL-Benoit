@@ -1,4 +1,4 @@
-![banner](assets/Banner.png)
+![banner](assets/Banner_2.png)
 
 # Hello there 🧔 - WIP
 
