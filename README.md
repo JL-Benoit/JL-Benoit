@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###My skills :
+### My skills :
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,postgres)](https://skillicons.dev)
 
 ### Learning :
