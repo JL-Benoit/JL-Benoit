@@ -1,3 +1,8 @@
+<!--
+Nice of you to drop by !
+Hope you have a nice day 😉
+-->
+
 # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=500&size=56&duration=2000&pause=3000&color=F05726&vCenter=true&width=435&lines=Hello+there+!;General+Kenobi+!)
 
 Graphic designer & product photographer turned aspiring Data Analyst.\
@@ -17,5 +22,3 @@ Now I’m learning how to apply that creative eye to data storytelling : **turni
 </br>
 ## 🔍 See my other stuff :
 [![linkedin](assets/web_icon-01.png)](https://www.linkedin.com/in/jean-louis-benoit-576381178)&ensp;[![instagram](assets/web_icon-02.png)](https://www.instagram.com/jlbenoit.photo)&ensp;[![behance](assets/web_icon-03.png)](https://www.behance.net/jeanbenoit7379)
-<!--
-**JL-Benoit/JL-Benoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
