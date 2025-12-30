@@ -15,9 +15,9 @@ Now I’m learning how to apply that creative eye to data storytelling : **turni
 
 ## 🛠️ Skills & Tools:
 
-![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=adobeillustrator,adobephotoshop,adobeindesign,excel,vscode,postgresql,powerbi)
+![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=adobeillustrator,adobephotoshop,adobeindesign,excel,vscode,postgresql,powerbi,tableau)
 ### Currently learning :
-![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=python,pandas,tableau,numpy,tensorflow,pytorch)
+![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=python,pandas,numpy,tensorflow,pytorch)
 </br>
 </br>
 ## 🔍 See my other stuff :
